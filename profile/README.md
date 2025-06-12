@@ -12,7 +12,7 @@ This organization serves as a hub for developing and maintaining the Afilmory ph
 
 ## Repositories
 
-- **Afilmory**: A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory, this project showcases timeless photography through modern web technology.
+- **Afilmory**: A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 
 ## Contributing
 
